@@ -5,7 +5,7 @@ build and run scripts you can use to start up the application.
 
 ## Running the sample
 
-1. Update clientSecret in public/create.php file
+1. Update clientSecret in public/create.php file and publishable API key in the Stripe object at public/checkout.js file
 
 2. Run the server
 
